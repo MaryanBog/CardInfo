@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Check Card Info</string>
+    <string name="enter_first_eight">Enter the first eight digits of the card</string>
+    <string name="valid_card_error">The entered card number is incorrect</string>
+    <string name="response_received_error">No response received</string>
+    <string name="card_scheme">Card scheme</string>
+    <string name="card_type">Card type</string>
+    <string name="card_number_length">Card number length</string>
+    <string name="card_number_availability">Card number availability</string>
+    <string name="card_brand">Card brand</string>
+    <string name="card_prepaid">Card prepaid</string>
+    <string name="country_numeric">Country numeric</string>
+    <string name="country_name">Country name</string>
+    <string name="country_latitude">Country latitude</string>
+    <string name="country_longitude">Country longitude</string>
+    <string name="bank_name">Bank name</string>
+    <string name="bank_url">Bank website</string>
+    <string name="no_bank_site">Sorry, no bank site</string>
+    <string name="bank_phone">Bank phone</string>
+    <string name="bank_city">Bank city</string>
+    <string name="full_card_info">Full card Information</string>
+    <string name="view_all_requests">View all requests</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
